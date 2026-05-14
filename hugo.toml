@@ -1,0 +1,8 @@
+baseURL = "https://MayMayne.github.io/May-blog/"
+title = "Mây Blog"
+languageCode = "vi-VN"
+
+theme = "ananke"
+
+[params]
+  description = "Blog cá nhân của Mây"
